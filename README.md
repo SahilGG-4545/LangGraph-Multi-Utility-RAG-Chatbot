@@ -2,6 +2,8 @@
 
 A conversational AI chatbot built with **LangGraph**, **LangChain**, and **Streamlit**, powered by **Groq's ultra-fast inference** (Llama 3.3 70B). Supports multi-turn memory, multiple concurrent chat threads, real-time token streaming, and a polished animated UI.
 
+![alt text](image.png)
+
 ---
 
 ## ✨ Features
