@@ -1,5 +1,8 @@
 main.py
 chatbot.db
+chatbot.db-shm
+chatbot.db-wal
+extra_scripts/
 # ── Python ───────────────────────────────────────────────
 __pycache__/
 *.py[oc]
